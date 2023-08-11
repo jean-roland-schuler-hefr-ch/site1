@@ -1,4 +1,6 @@
 site_name: My Education Site
+sit_url: https://jean-roland-schuler-hefr-ch.github.io/site1/
+
 
 theme:
   name: material
