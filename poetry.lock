@@ -234,7 +234,7 @@ pyyaml = "*"
 
 [[package]]
 name = "regex"
-version = "2023.6.3"
+version = "2023.8.8"
 description = "Alternative regular expression module, to replace re."
 category = "main"
 optional = false
@@ -293,8 +293,8 @@ watchmedo = ["PyYAML (>=3.10)"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.10"
-content-hash = "7318a33c09a77c80f3e2cd6f39888796bd9fd6e7880e84e47f5a786e270b1368"
+python-versions = ">=3.10,<3.13"
+content-hash = "99c9d30874fae8db51aa0e965ad608be08219efccb5fbd41a5a64561209f0727"
 
 [metadata.files]
 certifi = []
